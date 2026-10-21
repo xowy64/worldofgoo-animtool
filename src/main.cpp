@@ -72,7 +72,7 @@ static void printUsage(const char* argv0)
         "      --bin, --bin32   Target format: anim.binltl / movie.binltl (32-bit)\n"
         "      --bin64          Target format: anim.binltl64 / movie.binltl64\n"
         "      --binuni         Target format: anim.binuni / movie.binuni\n"
-        "      --binuni -fix    movie.binuni in the remastered layout (36-byte BinActor);\n"
+        "      --binuni -fix    movie.binuni in the remastered layout.\n"
         "  -h, --help           Show this help\n"
         "\n"
         "Examples:\n"
