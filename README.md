@@ -11,7 +11,7 @@
 ## Usage
 
 ```
-./animtool [options] <input> [output]
+./animtool <input> [options] [output]
 
 Options:
   -r, --recursive      Convert a folder recursively
