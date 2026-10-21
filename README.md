@@ -27,7 +27,7 @@ Options:
 
 ## How to build
 
-- First, clone the repository: `https://github.com/xowy64/worldofgoo-animtool`.
+- First, clone the repository: `git clone --recursive https://github.com/xowy64/worldofgoo-animtool`.
 
 - Then open a terminal inside the repo directory and run this command: `cmake -B build -DCMAKE_BUILD_TYPE=MinSizeRel && cmake --build build -j8` 
     - Default build is `MinSizeRel`, but it can be changed to these: `Release`, `RelWithDebInfo`, and `Debug`.
