@@ -6,7 +6,7 @@
     - Currently: `binltl`, `binltl64`, `binuni`, and `xml`.
 
 - Does it work with the Goovie or GooTool XML formats?
-    - Not currently. In order to edit these, you would have to convert a bin file from Gootool/Goovie to xml with this tool.
+    - Not currently. In order to edit these, you would have to convert a bin file produced by Gootool/Goovie to xml with this tool.
 
 ## Usage
 
